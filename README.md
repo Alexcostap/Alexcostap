@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alexcostap
 - 👀 Eu sou interessado em aprender e desenvolver 
 - 🌱 Estou aprendendo Python, PHP,Java, Javascript, HTML e CSS 
-- 💞️ Participei da criação do CRUDLab
-- Criador do site Caçador de Preços (https://cacadordepreco.com.br)
+- 💞️ Participei da criação do CRUDLab(github.com/JoseEliodoro/CRUD-em-python)
+- Criador do site Caçador de Preços (cacadordepreco.com.br)
 - 📫 Me encontre no LinkedIn (https://www.linkedin.com/in/alex-costa-14928a195)
 
 <!---
